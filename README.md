@@ -30,7 +30,6 @@ Encode and decode messages using linear algebra and modular arithmetic
 - [Limitations](#limitations)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
